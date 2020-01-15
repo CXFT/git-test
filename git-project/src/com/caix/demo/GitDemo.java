@@ -6,4 +6,8 @@ public class GitDemo {
         System.out.println("b");
         System.out.println("c");
     }
+
+    public void say(){
+        System.out.println("你好！！！");
+    }
 }
